@@ -34,5 +34,5 @@ A sleek, responsive weather dashboard built with **React.js**, allowing users to
 - **Tailwind CSS / MUI / Chakra UI / Styled Components** – Styling
 - **Axios / Fetch API** – HTTP requests
 - **React Hooks** – State and effects
-- **Netlify – Deployment
+- **Netlify** – Deployment
 
